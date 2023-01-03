@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Ring",
+        "cost": 100,
+        "STR": 5
+    },
+    {
+        "type": "Amulet",
+        "cost": 50,
+        "DEX": 10
+    }
+]
