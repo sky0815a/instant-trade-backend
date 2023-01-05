@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "devStart": "nodemon server.js"
+    "start": "nodemon server.js"
   },
+  
   "engines": {
     "node": "16.x",
     "npm": "8.5.5"
